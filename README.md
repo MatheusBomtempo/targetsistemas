@@ -48,4 +48,4 @@ Para cada desafio, siga as instruções abaixo:
 
 ## Considerações Finais
 
-Cada um dos desafios foi implementado para ser executado de forma simples e direta no console do Node.js. Sinta-se à vontade para me perguntar no email quando necessário [email](mailto:matheusbarbacena@gmail.com).
+Cada um dos desafios foi implementado para ser executado de forma simples e direta no console do Node.js. Sinta-se à vontade para me perguntar no email quando necessário [matheusbarbacena@gmail.com](mailto:matheusbarbacena@gmail.com).
